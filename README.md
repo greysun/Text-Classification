@@ -28,6 +28,10 @@ https://arxiv.org/abs/1510.03820
 
 https://arxiv.org/pdf/1708.04729.pdf
 
+https://arxiv.org/pdf/1804.02063.pdf  （Few-Shot Text Classification with Pre-Trained Word
+Embeddings and a Human in the Loop）
+
+
 Docs
 
 
