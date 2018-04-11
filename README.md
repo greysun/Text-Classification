@@ -34,6 +34,10 @@ https://arxiv.org/pdf/1708.04729.pdf
 https://arxiv.org/pdf/1804.02063.pdf  （Few-Shot Text Classification with Pre-Trained Word
 Embeddings and a Human in the Loop）
 
+https://arxiv.org/pdf/1801.06287.pdf  What Does a TextCNN Learn?
+
+https://arxiv.org/pdf/1708.04729.pdf Deconvolutional Paragraph Representation Learning
+
 Tool
 
 https://github.com/dennybritz/bella bella is a tool that helps managing, labeling and evaluating natural language datasets.
