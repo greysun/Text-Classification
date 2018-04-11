@@ -19,6 +19,7 @@ https://www.zhihu.com/question/58863937
 
 https://github.com/richliao/textClassifier ：Text classifier for Hierarchical Attention Networks for Document Classification
 
+https://github.com/yudake/porn_fiction_classify 利用 文本卷积神经网络 （TextCNN）训练的文章分类模型，检测是否为色情文章。
 
 Paper
 
@@ -38,11 +39,10 @@ Tool
 https://github.com/dennybritz/bella bella is a tool that helps managing, labeling and evaluating natural language datasets.
 
 
+Resource 
+#Docs
 
-Docs
+#Data
 
-
-Data
-
-Video
+#Video
 
