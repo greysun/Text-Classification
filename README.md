@@ -21,6 +21,8 @@ https://github.com/richliao/textClassifier ：Text classifier for Hierarchical A
 
 https://github.com/yudake/porn_fiction_classify 利用 文本卷积神经网络 （TextCNN）训练的文章分类模型，检测是否为色情文章。
 
+http://nadbordrozd.github.io/blog/2017/08/12/looking-for-the-text-top-model/ Looking for the Text Top Model
+
 Paper
 
 https://github.com/dennybritz/deeplearning-papernotes Summaries and notes on Deep Learning research papers
@@ -42,7 +44,7 @@ https://arxiv.org/pdf/1707.02919.pdf A Brief Survey of Text Mining: Classificati
 
 https://arxiv.org/pdf/1709.08716.pdf DOC: Deep Open Classification of Text Documents
 
-
+https://arxiv.org/pdf/1709.08267.pdf HDLTex: Hierarchical Deep Learning for Text Classification
 Tool
 
 https://github.com/dennybritz/bella bella is a tool that helps managing, labeling and evaluating natural language datasets.
