@@ -1,5 +1,5 @@
 # Text-Classification
-explore text classification methods in NLP with deep learning
+Explore text classification methods in NLP with deep learning
 
 
 Refer
@@ -37,6 +37,11 @@ Embeddings and a Human in the Loop）
 https://arxiv.org/pdf/1801.06287.pdf  What Does a TextCNN Learn?
 
 https://arxiv.org/pdf/1708.04729.pdf Deconvolutional Paragraph Representation Learning
+
+https://arxiv.org/pdf/1707.02919.pdf A Brief Survey of Text Mining: Classification, Clustering and extrachtion techniques
+
+https://arxiv.org/pdf/1709.08716.pdf DOC: Deep Open Classification of Text Documents
+
 
 Tool
 
