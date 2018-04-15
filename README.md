@@ -8,7 +8,6 @@ https://github.com/brightmart/text_classification
 
 https://github.com/dennybritz/cnn-text-classification-tf  （http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/）
 
-
 https://github.com/yoonkim/CNN_sentence
 
 https://github.com/chenyuntc/PyTorchText :1st Place Solution for Zhihu Machine Learning Challenge . Implementation of various text-classification models.(知乎看山杯第一名解决方案) https://biendata.com/competition/zhihu/
@@ -49,11 +48,12 @@ Tool
 
 https://github.com/dennybritz/bella bella is a tool that helps managing, labeling and evaluating natural language datasets.
 
+https://arxiv.org/pdf/1801.06146.pdf Fine-tuned Language Models for Text Classification
 
-Resource 
-#Docs
+# Resource 
+# Docs
 
-#Data
+# Data
 
-#Video
+# Video
 
